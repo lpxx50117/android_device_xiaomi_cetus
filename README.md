@@ -1,5 +1,5 @@
 # android_device_xiaomi_cetus
-experiment device tree for Xiaomi MIX FOLD(cetus)
+experiment device tree for Xiaomi MIX FOLD(cetus)  
 Cannot boot into the system,but the boot.img with Lineage Recovery partially work:  
 On Recovery:  
 Display,Buttom-Working  
